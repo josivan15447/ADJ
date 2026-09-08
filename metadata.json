@@ -1,0 +1,6 @@
+{
+  "name": "ADJ Jeruel - Tesouraria",
+  "description": "Sistema completo de gestão financeira e tesouraria eclesiástica da Assembleia de Deus Jeruel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
